@@ -29,3 +29,8 @@ hci0 is the standard name for the first host controller interface (HCI) device, 
 ```
 rfkill unblock all
 ```
+
+
+## Alternative Solution
+
+In some cases a simple `bluetoothtcl power on` is all it takes.
